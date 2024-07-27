@@ -1,0 +1,9 @@
+<!-- layout.erb -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mihle's Message System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color:
